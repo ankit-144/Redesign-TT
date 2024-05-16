@@ -28,11 +28,11 @@ The front end is created in **React.js** and **Material UI**. For creating backe
 
 2. Clone your forked repo to your local machine:
 ```
-git clone https://github.com/MiHarsh/redesigned-tt.git (https)
+git clone https://github.com/ankit-144/redesigned-tt.git (https)
 ```
 or
 ```
-git clone git@github.com:MiHarsh/redesigned-tt.git (ssh)
+git clone git@github.com:ankit-144/redesigned-tt.git (ssh)
 ```
 This will make a copy of the code to your local machine.
 
@@ -57,25 +57,25 @@ origin	git@github.com:<username>/redesigned-tt.git (push)
 ```
 Add upstream to remote:
 ```
-git remote add upstream https://github.com/MiHarsh/redesigned-tt.git (https)
+git remote add upstream https://github.com/ankit-144/redesigned-tt.git (https)
 ```
 or
 ```
-git remote add upstream git@github.com:MiHarsh/redesigned-tt.git (ssh)
+git remote add upstream git@github.com:ankit-144/redesigned-tt.git (ssh)
 ```
 Running `git remote -v` should then print the following:
 ```
 origin	https://github.com/<username>/redesigned-tt.git (fetch)
 origin	https://github.com/<username>/redesigned-tt.git (push)
-upstream	https://github.com/MiHarsh/redesigned-tt.git (fetch)
-upstream	https://github.com/MiHarsh/redesigned-tt.git (push)
+upstream	https://github.com/ankit-144/redesigned-tt.git (fetch)
+upstream	https://github.com/ankit-144/redesigned-tt.git (push)
 ```
 or
 ```
 origin	git@github.com:<username>/redesigned-tt.git (fetch)
 origin	git@github.com:<username>/redesigned-tt.git (push)
-upstream	git@github.com:MiHarsh/redesigned-tt.git (fetch)
-upstream	git@github.com:MiHarsh/redesigned-tt.git (push)
+upstream	git@github.com:ankit-144/redesigned-tt.git (fetch)
+upstream	git@github.com:ankit-144/redesigned-tt.git (push)
 ```
 ## 
 
